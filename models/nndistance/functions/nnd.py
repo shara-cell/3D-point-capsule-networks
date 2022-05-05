@@ -2,7 +2,7 @@
 import torch
 from torch.autograd import Function
 #from _ext import my_lib
-import my_lib_cuda as my_lib
+# import my_lib_cuda as my_lib
 
 
 class NNDFunction(Function):
